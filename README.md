@@ -30,7 +30,7 @@ La clase se desarrollará con un metodo principalmente teórico.  El contenido d
 
 4: Interacción fisica
 
-5: Gestualidad e interacción
+5: Participacion
 
 6: Entrega #1
 
@@ -65,6 +65,8 @@ La clase se desarrollará con un metodo principalmente teórico.  El contenido d
 
 
 ## Bibliografía
+
+* Ryszard W. Kluszczynski, Strategies of Interactive art, Journal of AESTHETICS & CULTURE, Vol. 2, 2010 [link](http://www.aestheticsandculture.net/index.php/jac/article/download/5525/6190)
 
 * Agamben, Giorgio, Qué es un dispositivo ? , Sociológica, año 26, número 73, pp. 249-264, mayo-agosto de 2011. [link](http://www.revistasociologica.com.mx/pdf/7310.pdf)
 
