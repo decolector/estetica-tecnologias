@@ -77,3 +77,7 @@ La clase se desarrollará con un metodo principalmente teórico.  El contenido d
 * Gene, Nicholas y Beer, David; New Media: Key Concepts; Berg, New york, 2008.
 
 * Latour, Bruno; Visualizacion y cognicion: pensando con los ojos y con las manos; La Balsa de la Medusa, Ano: 1998, Número: 45-46, páginas 77-128.
+
+## Recursos web:
+
+[Stephen Wilson: Intersections of Art, Technology, Science & Culture - Links](http://userwww.sfsu.edu/infoarts/links/wilson.artlinks.org.html)
